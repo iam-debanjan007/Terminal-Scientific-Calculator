@@ -5,6 +5,7 @@ This repository contains a basic command-line based scientific calculator implem
 Features:
 
 Arithmetic Operations: Perform basic mathematical calculations such as addition, subtraction, multiplication, and division.
+
 Trigonometric Functions: Calculate trigonometric values like sine, cosine, tangent.
 
 Usage:
