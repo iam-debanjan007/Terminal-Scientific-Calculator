@@ -21,3 +21,6 @@ While the calculator aims to provide accurate results, it is not intended for cr
 License:
 
 This project is open-source and available under the MIT License.
+
+
+*if you  liked it please give it a star :)
